@@ -315,6 +315,6 @@ For questions or collaboration opportunities, feel free to reach out:
 
 **⭐ If you find this project useful, please consider giving it a star! ⭐**
 
-Built with ❤️ using AI and Python
+Built with ❤️ 
 
 </div>
