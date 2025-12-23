@@ -305,9 +305,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions or collaboration opportunities, feel free to reach out:
 
-- **GitHub**: [@your-username](https://github.com/your-username)
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your Name](https://linkedin.com/in/your-profile)
+- **GitHub**: nobitanobi22
+- **Email**: kankita32v901@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/kumari-ankita-31b2bb250
 
 ---
 
