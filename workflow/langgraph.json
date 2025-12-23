@@ -1,0 +1,9 @@
+{
+    "_comment": "Run studio using this command myenv/bin/langgraph dev",
+    "dependencies": ["."],
+    "graphs": {
+        "agent": "./graph.py:agent"
+    },
+    "env": "../.env"
+}
+

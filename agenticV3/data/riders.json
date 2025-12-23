@@ -1,0 +1,90 @@
+[
+  {
+    "rider_id": "test0001",
+    "rider_rating": 4.2,
+    "rider_password": "test0001",
+    "prior_cancellations": 8,
+    "total_rides_booked": 33,
+    "cancelation_rate": 24.242424242424242
+  },
+  {
+    "rider_id": "test0002",
+    "rider_rating": 3.0,
+    "rider_password": "test0002",
+    "prior_cancellations": 10,
+    "total_rides_booked": 33,
+    "cancelation_rate": 30.303030303030305
+  },
+  {
+    "rider_id": "test0003",
+    "rider_rating": 2.0,
+    "rider_password": "test0003",
+    "prior_cancellations": 5,
+    "total_rides_booked": 11,
+    "cancelation_rate": 45.45454545454545
+  },
+  {
+    "rider_id": "test0004",
+    "rider_rating": 1.2,
+    "rider_password": "test0004",
+    "prior_cancellations": 10,
+    "total_rides_booked": 53,
+    "cancelation_rate": 18.867924528301888
+  },
+  {
+    "rider_id": "mukki",
+    "rider_rating": 4.1,
+    "rider_password": "mukki123",
+    "prior_cancellations": 2,
+    "total_rides_booked": 20,
+    "cancelation_rate": 10.0
+  },
+  {
+    "rider_id": "1234567890",
+    "rider_rating": 5.0,
+    "rider_password": "12345678",
+    "prior_cancellations": 17,
+    "total_rides_booked": 80,
+    "cancelation_rate": 21.25
+  },
+  {
+    "rider_id": "0987654321",
+    "rider_rating": 3.9,
+    "rider_password": "87654321",
+    "prior_cancellations": 20,
+    "total_rides_booked": 100,
+    "cancelation_rate": 20.0
+  },
+  {
+    "rider_id": "1234509876",
+    "rider_rating": 4.0,
+    "rider_password": "12348765",
+    "prior_cancellations": 2,
+    "total_rides_booked": 4,
+    "cancelation_rate": 50.0
+  },
+  {
+    "rider_id": "1234",
+    "rider_rating": 5.0,
+    "rider_password": "12345678",
+    "prior_cancellations": 1,
+    "total_rides_booked": 5,
+    "cancelation_rate": 20.0
+  },
+  {
+    "rider_id": "12345",
+    "rider_rating": 1.0,
+    "rider_password": "12345678",
+    "prior_cancellations": 9,
+    "total_rides_booked": 10,
+    "cancelation_rate": 90.0
+  },
+  {
+    "rider_id": "user-P807M",
+    "rider_rating": 4.0,
+    "rider_password": "12345678",
+    "prior_cancellations": 10,
+    "total_rides_booked": 70,
+    "cancelation_rate": 14.285714285714285
+  }
+]
